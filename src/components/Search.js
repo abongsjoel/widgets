@@ -26,10 +26,10 @@ const Search = () => {
                     format: 'json',
                     srsearch: debouncedTerm,
                 }
-            })
+            });
 
             setResults(data.query.search);
-        }
+        };
 
         if (debouncedTerm){
             search();
