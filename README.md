@@ -31,6 +31,8 @@ The project builds four simple widgets: An Accordion, A Search widget, a simple 
   <p>This project is <a href="../main/LICENSE">MIT</a> licensed.</p>
 
 
+## React App Specifics
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
