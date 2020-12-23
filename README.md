@@ -4,7 +4,7 @@
 
 ![screenshot](../main/screenshot.png)
 
-The project builds four simple widgets: An Accordion, A Search widget, a simple Dropdown widget and a Translate widgets using Reactjs (React Hooks). The widgets themselves have no connection with each other but they are linked together using the basic React Navigation built from scratch.
+The project builds four simple widgets: An Accordion, A Search widget, a simple Dropdown widget and a Translate widget using Reactjs (React Hooks) and semantic-ui css library. The widgets themselves have no connection with each other but they are linked together using the basic React Navigation built from scratch.
 
 ## Live Demo
 
