@@ -1,3 +1,36 @@
+# Widgets Application
+
+> In this project, I created 4 simple widgets using React Hooks
+
+![screenshot](../main/screenshot.png)
+
+The project builds four simple widgets: An Accordion, A Search widget, a simple Dropdown widget and a Translate widgets using Reactjs (React Hooks). The widgets themselves have no connection with each other but they are linked together using the basic React Navigation built from scratch.
+
+## Live Demo
+
+- [Visit Page](https://upbeat-wilson-438422.netlify.app/)
+
+## Built With
+
+- Reactjs
+
+## Author
+
+👤 **Chi A. Joel**
+
+- GitHub: [@abongsjoel](https://github.com/abongsjoel)
+- Twitter: [@thierryjoel10](https://twitter.com/ThierryJoel10)
+- LinkedIn: [Chi Abongwa Joel](https://www.linkedin.com/in/chi-abongwa-joel-b4285a97/)
+
+## Show your support
+<p> Give a 
+  <g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"><img class="emoji" alt="star" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"></g-emoji>
+  if you like this project!</p>
+
+## License
+  <p>This project is <a href="../main/LICENSE">MIT</a> licensed.</p>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
