@@ -13,6 +13,7 @@ The project builds four simple widgets: An Accordion, A Search widget, a simple 
 ## Built With
 
 - Reactjs
+- Semantic-ui
 
 ## Author
 
