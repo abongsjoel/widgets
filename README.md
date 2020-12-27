@@ -22,6 +22,10 @@ The project builds four simple widgets: An Accordion, A Search widget, a simple 
 - Twitter: [@thierryjoel10](https://twitter.com/ThierryJoel10)
 - LinkedIn: [Chi Abongwa Joel](https://www.linkedin.com/in/chi-abongwa-joel-b4285a97/)
 
+## Acknowledgments
+
+- [Stephen Grider](https://www.udemy.com/course/react-redux/#instructor-1)
+
 ## Show your support
 <p> Give a 
   <g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"><img class="emoji" alt="star" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"></g-emoji>
