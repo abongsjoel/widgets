@@ -27,6 +27,12 @@ The project builds four simple widgets: An Accordion, A Search widget, a simple 
 
 - [Stephen Grider](https://www.udemy.com/course/react-redux/#instructor-1)
 
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/abongsjoel/widgets/issues).
+
 ## Show your support
 Give a ⭐️ if you like this project!
 
